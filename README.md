@@ -1,2 +1,1 @@
-OISB
-Oasis InfoByte Internship
+OISB - Oasis InfoByte Internship
